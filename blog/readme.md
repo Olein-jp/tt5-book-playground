@@ -249,3 +249,33 @@
 2. つまり自分で自分の心臓を動かし始めた。
 3. 夜中にちょっと苦しいといってＫに聞きました。
 ```
+
+### 固定ページ：About
+
+「夜空に満天の星が広がる山岳風景。上部には無数の星が輝く澄んだ夜空が広がり、星々が青みがかった暗い背景に散りばめられている。中央には壮大な岩山がそびえ立ち、柔らかな月明かりや星明かりに照らされ、部分的に陰影が付いている。山の麓には緑豊かな草原が広がり、小道が蛇行しながら山小屋へと続いている。草原には点在する黄色い野花が見られ、自然の静けさを感じる要素となっている。小屋の近くには小さな光が灯り、人間の活動がほんの少しだけ自然に溶け込んでいる。雲が一部山を覆い、幻想的で神秘的な夜の雰囲気を引き立てている。」
+
+"A mountainous landscape under a star-filled night sky. The upper portion features a clear night sky adorned with countless stars, scattered across a bluish-dark backdrop. In the center, a majestic rocky peak rises prominently, partially illuminated by soft moonlight or starlight, casting gentle shadows. At the base of the mountain lies a lush green meadow, with a winding path leading to a small mountain hut. The meadow is dotted with yellow wildflowers, adding a touch of natural serenity. Near the hut, a small light glows, subtly integrating human presence into the vast wilderness. Wisps of clouds partially shroud the mountain, enhancing the mystical and tranquil atmosphere of the night."
+
+```
+## About TT5 Blog
+はじめまして！このブログ「TT5 Blog」をご覧いただき、ありがとうございます。「TT5 Blog」は、日々の暮らしの中で感じたことや、役立つ情報、そして趣味について気ままに発信する雑記ブログです。特定のテーマにこだわらず、多岐にわたるジャンルの記事をお届けしています。読んでくださる方に、「ちょっと役立った」「なんだか元気が出た」と思ってもらえるようなブログを目指しています。
+
+## Why I Started TT5 Blog
+「TT5 Blog」を始めたきっかけは、頭に浮かぶアイデアや、日常で得た学びを形に残したいと思ったことです。日々忙しく過ぎていく中で感じたことや、小さな発見をそのままにしてしまうのがもったいなくて、思い切ってブログを立ち上げました。日常の些細な話題から、趣味や旅の記録、実用的な情報まで、幅広く取り上げています。テーマに縛られない自由さが、「TT5 Blog」の最大の魅力です！
+
+## What You’ll Find on TT5 Blog
+「TT5 Blog」では、以下のようなテーマを中心に記事を投稿しています：
+
+- ライフハック：日常生活をちょっと快適にするアイデアやコツ 
+- 趣味の記録：映画や音楽、本などのレビューや感想 
+- 旅の思い出：訪れた場所やおすすめスポットの紹介 
+- 気づきと学び：日々の中で感じたことや考えを綴ったエッセイ
+
+- どの記事も、読んでいただく方の気分転換や新しい発見につながるように心がけています。
+
+## About Me
+簡単に自己紹介をさせていただくと、私は「TT5」と名乗っています。このブログ名の由来は、自分の好きなものや、大切にしている5つの価値観（Time、Travel、Thoughts、Taste、Tech）を詰め込んだ名前です。普段は[あなたの職業や趣味]に取り組みながら、週末や空いた時間にブログを書くのを楽しんでいます。趣味は[趣味1、趣味2]で、日々の中で感じたことを記事にすることで、自分自身も新しい発見をしています。
+
+## Let’s Connect!
+最後までお読みいただきありがとうございます！「TT5 Blog」をきっかけに、皆さんとつながれるのを楽しみにしています。感想やリクエストがあれば、ぜひコメントやメッセージでお知らせください。また、[TwitterやInstagramなどSNS]も運営していますので、フォローしていただけると嬉しいです。これからも「TT5 Blog」をどうぞよろしくお願いします！
+```
