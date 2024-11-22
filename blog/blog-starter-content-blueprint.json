@@ -40,7 +40,23 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('date_format', 'Y年n月j日'); update_option('timezone_string', 'Asia/Tokyo'); update_option('time_format', 'H:i'); update_option('blogdescription', 'シンプルブログを作ろう'); ?>"
+      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('date_format', 'Y年n月j日'); ?>"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('timezone_string', 'Asia/Tokyo'); ?>"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('time_format', 'H:i'); ?>"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('blogdescription', 'シンプルブログを作ろう'); ?>"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; wp_delete_post(1, true); wp_delete_post(2, true); wp_delete_post(3, true); ?>"
     }
   ]
 }
