@@ -37,6 +37,10 @@
         "resource": "url",
         "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/tt5-book-blog-content.xml"
       }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('date_format', 'Y年n月j日'); update_option('timezone_string', 'Asia/Tokyo'); update_option('time_format', 'H:i'); update_option('blogdescription', 'シンプルブログを作ろう'); ?>"
     }
   ]
 }
