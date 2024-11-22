@@ -1,4 +1,4 @@
-# ブログ用素材
+# TT5ブログ用素材
 
 ## WordPress Playground URL
 - [https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/blog-starter-content-blueprint.json](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/blog-starter-content-blueprint.json)
