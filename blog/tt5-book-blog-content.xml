@@ -549,6 +549,72 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1792;s:4:"file";s:33:"2024/11/tt5book-blog-image-10.jpg";s:8:"filesize";i:506445;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-300x233.jpg";s:5:"width";i:300;s:6:"height";i:233;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12678;}s:5:"large";a:5:{s:4:"file";s:34:"tt5book-blog-image-10-1024x796.jpg";s:5:"width";i:1024;s:6:"height";i:796;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146130;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4515;}s:12:"medium_large";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-768x597.jpg";s:5:"width";i:768;s:6:"height";i:597;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79503;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-1536x1195.jpg";s:5:"width";i:1536;s:6:"height";i:1195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:344605;}s:9:"2048x2048";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-2048x1593.jpg";s:5:"width";i:2048;s:6:"height";i:1593;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:593116;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+	<item>
+		<title><![CDATA[tt5book-site-icon-black]]></title>
+		<link>https://playground.wordpress.net/%e5%86%8d%e3%81%b3%e5%bd%bc%e3%81%ab%e6%8a%95%e3%81%92%e8%bf%94%e3%81%97%e3%81%9f/tt5book-site-icon-black/</link>
+		<pubDate>Thu, 21 Nov 2024 10:31:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/images/tt5book-site-icon-black.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-21 19:31:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-21 10:31:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-21 19:31:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-21 10:31:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tt5book-site-icon-black]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/images/tt5book-site-icon-black.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2024/11/tt5book-site-icon-black.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1792;s:4:"file";s:33:"2024/11/tt5book-site-icon-black.png";s:8:"filesize";i:506445;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-300x233.jpg";s:5:"width";i:300;s:6:"height";i:233;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12678;}s:5:"large";a:5:{s:4:"file";s:34:"tt5book-blog-image-10-1024x796.jpg";s:5:"width";i:1024;s:6:"height";i:796;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146130;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4515;}s:12:"medium_large";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-768x597.jpg";s:5:"width";i:768;s:6:"height";i:597;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79503;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-1536x1195.jpg";s:5:"width";i:1536;s:6:"height";i:1195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:344605;}s:9:"2048x2048";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-2048x1593.jpg";s:5:"width";i:2048;s:6:"height";i:1593;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:593116;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[tt5book-site-icon-white]]></title>
+		<link>https://playground.wordpress.net/%e5%86%8d%e3%81%b3%e5%bd%bc%e3%81%ab%e6%8a%95%e3%81%92%e8%bf%94%e3%81%97%e3%81%9f/tt5book-site-icon-white/</link>
+		<pubDate>Thu, 21 Nov 2024 10:31:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/images/tt5book-site-icon-white.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-21 19:31:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-21 10:31:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-11-21 19:31:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-11-21 10:31:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tt5book-site-icon-white]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/images/tt5book-site-icon-white.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2024/11/tt5book-site-icon-white.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1792;s:4:"file";s:33:"2024/11/tt5book-site-icon-white.png";s:8:"filesize";i:506445;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-300x233.jpg";s:5:"width";i:300;s:6:"height";i:233;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12678;}s:5:"large";a:5:{s:4:"file";s:34:"tt5book-blog-image-10-1024x796.jpg";s:5:"width";i:1024;s:6:"height";i:796;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146130;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4515;}s:12:"medium_large";a:5:{s:4:"file";s:33:"tt5book-blog-image-10-768x597.jpg";s:5:"width";i:768;s:6:"height";i:597;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79503;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-1536x1195.jpg";s:5:"width";i:1536;s:6:"height";i:1195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:344605;}s:9:"2048x2048";a:5:{s:4:"file";s:35:"tt5book-blog-image-10-2048x1593.jpg";s:5:"width";i:2048;s:6:"height";i:1593;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:593116;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
 					<item>
 		<title><![CDATA[挨拶する白い服を着た事のない私]]></title>
 		<link>https://playground.wordpress.net/%e6%8c%a8%e6%8b%b6%e3%81%99%e3%82%8b%e7%99%bd%e3%81%84%e6%9c%8d%e3%82%92%e7%9d%80%e3%81%9f%e4%ba%8b%e3%81%ae%e3%81%aa%e3%81%84%e7%a7%81/</link>
