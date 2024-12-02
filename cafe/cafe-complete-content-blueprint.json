@@ -33,7 +33,7 @@
     },
     {
       "step": "importWordPressFiles",
-      "WordPressFiles": {
+      "wordPressFilesZip": {
         "resource": "url",
         "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/wordpress.zip"
       }
