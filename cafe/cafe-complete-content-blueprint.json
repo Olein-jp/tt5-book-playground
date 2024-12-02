@@ -1,0 +1,39 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/wp-admin/edit.php",
+  "preferredVersions": {
+    "php": "8.1",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "phpExtensionBundles": [
+    "kitchen-sink"
+  ],
+  "siteOptions": {
+    "blogname": "TT5 Blog"
+  },
+  "steps": [
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "step": "setSiteLanguage",
+      "language": "ja"
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "wp-multibyte-patch"
+      }
+    },
+    {
+      "step": "wp-cli",
+      "command": "wp db import https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/cafe-complete-content.sql"
+    }
+  ]
+}
