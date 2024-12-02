@@ -35,7 +35,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/tt5-book-cafe-web-site-starter-content.xml"
+        "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/tt5-book-cafe-web-site-starter-content.xml"
       }
     },
     {
