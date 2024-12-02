@@ -6,4 +6,4 @@
 
 ## カフェサイトを作ってみよう
 
-- WordPress Playground : [https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/cafe-complete-content-blueprint.json](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/cafe-complete-content-blueprint.json)
+- WordPress Playground : [https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/cafe-starter-content-blueprint.json](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/cafe-starter-content-blueprint.json)
