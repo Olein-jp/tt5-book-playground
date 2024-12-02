@@ -2205,19 +2205,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/navigation/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"home","type":"page","id":10,"url":"https://playground.wordpress.net/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"about","type":"page","id":15,"url":"https://playground.wordpress.net/about/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"menu","type":"page","id":18,"url":"https://playground.wordpress.net/menu/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"event","url":"https://playground.wordpress.net/category/event/","kind":"custom"} /-->
-
-<!-- wp:navigation-link {"label":"blog","type":"page","id":2,"url":"https://playground.wordpress.net/blog/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"access","type":"page","id":24,"url":"https://playground.wordpress.net/access/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"contact","type":"page","id":27,"url":"https://playground.wordpress.net/contact/","kind":"post-type"} /-->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:26:01]]></wp:post_date>
