@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2024-12-12 11:50" -->
+	<!-- generator="WordPress/6.7.1" created="2024-12-28 16:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,9 +28,9 @@
 <channel>
 	<title>cafe TT5</title>
 	<link>https://playground.wordpress.net</link>
-	<description>relax time &#38; tasty coffee</description>
-	<pubDate>Thu, 12 Dec 2024 11:50:46 +0000</pubDate>
-	<language>ja</language>
+	<description></description>
+	<pubDate>Sat, 28 Dec 2024 16:49:04 +0000</pubDate>
+	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://playground.wordpress.net</wp:base_site_url>
 	<wp:base_blog_url>https://playground.wordpress.net</wp:base_blog_url>
@@ -106,14 +106,6 @@
 	</wp:term>
 		
 	<generator>https://wordpress.org/?v=6.7.1</generator>
-
-<image>
-	<url>https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/cafe-tt5-site-icon-black-150x150.png</url>
-	<title>cafe TT5</title>
-	<link>https://playground.wordpress.net</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 
 		<item>
 		<title><![CDATA[background-paper-alpha]]></title>
@@ -282,7 +274,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-01]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-01/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-01/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-01.jpg</guid>
@@ -315,7 +307,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-02]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-02/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-02/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-02.jpg</guid>
@@ -348,7 +340,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-03]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-03/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-03/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-03.jpg</guid>
@@ -381,7 +373,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-04]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-04/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-04/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-04.jpg</guid>
@@ -414,7 +406,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-05]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-05/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-05/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-05.jpg</guid>
@@ -447,7 +439,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-06]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-06/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-06/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-06.jpg</guid>
@@ -480,7 +472,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-07]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-07/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-07/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-07.jpg</guid>
@@ -513,7 +505,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-08]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-08/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-08/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-08.jpg</guid>
@@ -546,7 +538,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-09]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-09/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-09/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-09.jpg</guid>
@@ -579,7 +571,7 @@
 							</item>
 					<item>
 		<title><![CDATA[tt5-book-cafe-image-event-10]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/tt5-book-cafe-image-event-10/</link>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/tt5-book-cafe-image-event-10/</link>
 		<pubDate>Sun, 01 Dec 2024 14:17:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/tt5-book-cafe-image-event-10.jpg</guid>
@@ -612,7 +604,7 @@
 							</item>
 					<item>
 		<title><![CDATA[cafe-tt5-default-featured-image-black]]></title>
-		<link>https://playground.wordpress.net/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e5%96%b6%e6%a5%ad%e6%97%a5%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/cafe-tt5-default-featured-image-black/</link>
+		<link>https://playground.wordpress.net/notice-of-golden-week-operating-days/cafe-tt5-default-featured-image-black/</link>
 		<pubDate>Sun, 01 Dec 2024 14:25:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/cafe/images/cafe-tt5-default-featured-image-black.png</guid>
@@ -1102,7 +1094,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-07.jpg";s:8:"filesize";i:758970;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21128;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185218;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6709;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113246;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:367026;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-07.jpg";s:8:"filesize";i:391697;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21079;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185050;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6719;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113223;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:367895;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1135,7 +1127,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-08.jpg";s:8:"filesize";i:815140;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24719;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:201664;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7745;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:124447;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:395633;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-08.jpg";s:8:"filesize";i:423673;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24682;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:201205;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7731;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:124354;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:397547;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1168,7 +1160,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-06.jpg";s:8:"filesize";i:741620;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21640;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185719;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6619;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113804;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:366017;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-06.jpg";s:8:"filesize";i:387047;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21616;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:184861;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6614;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113433;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:367031;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1201,7 +1193,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-05.jpg";s:8:"filesize";i:927880;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24497;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:223293;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7179;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135323;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:449580;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-05.jpg";s:8:"filesize";i:489620;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24447;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:221529;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7175;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134778;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:448727;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1234,7 +1226,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-04.jpg";s:8:"filesize";i:705760;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21201;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:180478;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6846;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111638;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:348468;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-04.jpg";s:8:"filesize";i:356157;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21159;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:179629;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6863;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111270;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:348121;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1267,7 +1259,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-03.jpg";s:8:"filesize";i:676321;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18044;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:165221;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5419;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100141;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:328545;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-03.jpg";s:8:"filesize";i:347845;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18083;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:165115;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5425;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100273;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:331380;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1300,7 +1292,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-02.jpg";s:8:"filesize";i:636952;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20963;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:162305;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6746;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101028;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:317329;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-02.jpg";s:8:"filesize";i:322015;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20976;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:161893;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6732;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100901;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:318325;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1333,7 +1325,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-01.jpg";s:8:"filesize";i:744386;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22592;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189109;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7230;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116775;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:368971;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-lunch-01.jpg";s:8:"filesize";i:383736;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22556;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188488;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7240;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-lunch-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116589;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-lunch-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:369771;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1366,7 +1358,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-08.jpg";s:8:"filesize";i:736647;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23000;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189133;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7107;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118365;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:364500;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-08.jpg";s:8:"filesize";i:373208;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22956;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189369;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7105;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118453;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:365144;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1399,7 +1391,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-07.jpg";s:8:"filesize";i:520827;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19713;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134762;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6928;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85463;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:254698;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-07.jpg";s:8:"filesize";i:258286;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19732;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134746;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6936;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85588;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:260172;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1432,7 +1424,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-06.jpg";s:8:"filesize";i:559561;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18306;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143385;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6127;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88519;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:277133;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-06.jpg";s:8:"filesize";i:281282;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18273;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143771;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6133;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88684;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:280647;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1465,7 +1457,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-05.jpg";s:8:"filesize";i:562848;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19153;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145266;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6332;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90656;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:278450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-05.jpg";s:8:"filesize";i:282853;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19185;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145354;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6313;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90939;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:283005;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1498,7 +1490,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-04.jpg";s:8:"filesize";i:620897;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18021;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:147389;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6041;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89837;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:295778;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-04.jpg";s:8:"filesize";i:347928;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18009;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:148202;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6044;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89969;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:300581;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1531,7 +1523,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-03.jpg";s:8:"filesize";i:1018635;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24292;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:250105;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6889;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149666;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:503108;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-03.jpg";s:8:"filesize";i:541500;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24250;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:248339;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6888;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149055;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:498909;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1564,7 +1556,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-02.jpg";s:8:"filesize";i:630825;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18807;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:158952;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5955;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97158;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:311897;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-02.jpg";s:8:"filesize";i:326103;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18791;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:159472;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5959;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97475;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:315084;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1597,7 +1589,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-01.jpg";s:8:"filesize";i:469127;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16470;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114105;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5720;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71831;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:224930;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-sweet-01.jpg";s:8:"filesize";i:212964;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16491;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115178;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5724;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-sweet-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72415;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-sweet-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:226903;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1630,7 +1622,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-08.jpg";s:8:"filesize";i:691266;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20661;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:170873;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6590;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104782;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:338610;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-08.jpg";s:8:"filesize";i:351505;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20644;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-08-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:170282;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6599;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-08-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104709;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-08-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:337598;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1663,7 +1655,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-07.jpg";s:8:"filesize";i:487061;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16009;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120497;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5700;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73269;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:238480;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-07.jpg";s:8:"filesize";i:243308;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16032;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-07-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120738;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5712;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-07-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73740;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-07-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:242536;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1696,7 +1688,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-06.jpg";s:8:"filesize";i:660899;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19221;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168498;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5935;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102991;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:328530;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-06.jpg";s:8:"filesize";i:339648;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19236;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-06-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168088;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5951;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-06-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102858;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-06-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:330181;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1729,7 +1721,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-05.jpg";s:8:"filesize";i:406914;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16129;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106037;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5860;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67307;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:197846;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-05.jpg";s:8:"filesize";i:191331;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16139;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-05-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106470;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5858;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-05-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67700;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-05-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:202271;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1762,7 +1754,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-04.jpg";s:8:"filesize";i:588449;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17731;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145493;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5939;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89192;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:287398;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-04.jpg";s:8:"filesize";i:286600;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17787;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-04-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146104;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5942;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-04-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89627;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-04-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:288990;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1795,7 +1787,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-03.jpg";s:8:"filesize";i:642013;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17818;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154659;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5689;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94188;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:310333;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-03.jpg";s:8:"filesize";i:318847;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17873;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-03-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:155259;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5694;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-03-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94434;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-03-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:309862;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1828,7 +1820,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-02.jpg";s:8:"filesize";i:437402;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16417;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113240;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5725;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71770;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:212935;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-02.jpg";s:8:"filesize";i:206162;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16451;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-02-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113954;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5720;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-02-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72294;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-02-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:217769;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1861,7 +1853,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-01.jpg";s:8:"filesize";i:542616;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18010;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137226;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5948;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85323;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:264880;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"file";s:45:"2024/12/tt5-book-cafe-image-menu-drink-01.jpg";s:8:"filesize";i:270414;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18009;}s:5:"large";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-01-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137716;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5952;}s:12:"medium_large";a:5:{s:4:"file";s:45:"tt5-book-cafe-image-menu-drink-01-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85467;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"tt5-book-cafe-image-menu-drink-01-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:267348;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2097,7 +2089,7 @@
 							</item>
 					<item>
 		<title><![CDATA[front-page]]></title>
-		<link>https://playground.wordpress.net/</link>
+		<link>https://playground.wordpress.net/front-page/</link>
 		<pubDate>Sun, 01 Dec 2024 05:31:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?page_id=10</guid>
@@ -2105,32 +2097,30 @@
 		<content:encoded><![CDATA[<!-- wp:code -->
 <pre class="wp-block-code"><code>relax time &amp; tasty coffee
 
-日常も特別な日も、この場所で
+For both ordinary and special days, this is your place.
 
-忙しい毎日にほっと一息つけるカフェタイムも、大切な人と過ごす記念日やイベントも。ここは、あなたの日常を彩り、特別な瞬間をもっと輝かせる場所です。
+Whether it's a relaxing café moment to unwind during a busy day, or a celebration or event with someone special, this is a place to brighten your everyday life and make your special moments even more memorable.
 
-くつろぎのカフェスペースでは、香り豊かなコーヒーと手作りの美味しさを。広々としたレンタルスペースでは、ワークショップやパーティー、ビジネスミーティングなど、多彩なシーンに対応。
+In our cozy café space, enjoy aromatic coffee and handmade delights. In our spacious rental space, host workshops, parties, business meetings, and more—suitable for a variety of occasions.
 
-訪れるたびに新しい発見がある、この場所で、あなただけの物語をお楽しみください。
+Discover something new every time you visit. Enjoy your own unique story in this space.
 
-レンタルスペースについて
-イベント情報について
+Learn More About Rental Space
+Learn More About Event Information
 
 MENU
-
-あなたの時間を豊かにするメニューを揃えています。
-詳しく見る
+We offer a menu to enrich your time.
+&#91;Learn More]
 
 RENT SPACE
-
-お気に入りの場所をイベントに利用できます。
-詳しく見る
+Use your favorite space for events.
+&#91;Learn More]
 
 NEWS
 
 EVENT
 
-REQRUIT
+RECRUIT
 
 ACCESS</code></pre>
 <!-- /wp:code -->]]></content:encoded>
@@ -2138,8 +2128,8 @@ ACCESS</code></pre>
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:31:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:48:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:48:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:47:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:47:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[front-page]]></wp:post_name>
@@ -2161,92 +2151,76 @@ ACCESS</code></pre>
 <pre class="wp-block-code"><code>CAFE
 
 New York Style
-
-cafe TT5 は、ニューヨークの街角にあるカフェのような、スタイリッシュで温もりのある空間を目指してデザインされた特別な場所です。都会的なインダストリアルデザインを取り入れながらも、木の温もりや自然光を感じられる空間づくりにこだわっています。
+café TT5 is a special place designed to emulate the stylish yet cozy atmosphere of a New York corner café. While incorporating urban industrial design, the space emphasizes the warmth of wood and natural light for a welcoming environment.
 
 Tasty Coffee
-
-私たちは、一杯のコーヒーを通じて、日常の中に少しの贅沢と癒しをお届けしたいと考えています。使用するコーヒー豆は、世界各地の生産者から厳選したスペシャルティコーヒーのみ。豆の産地や焙煎度合いに合わせた最適な抽出方法で、一杯一杯丁寧に淹れています。また、季節の食材を使った手作りのスイーツや軽食も豊富に取り揃え、カフェで過ごす時間をより豊かに彩ります。
+We strive to bring a touch of luxury and relaxation to everyday life through a single cup of coffee. Our coffee beans are exclusively specialty coffee, carefully selected from producers worldwide. Each cup is brewed with care, using the optimal extraction method for the bean’s origin and roast level. Additionally, we offer a wide variety of handmade seasonal sweets and light meals to enrich your time at the café.
 
 RENT SPACE
 
-cafe TT5 では、スタイリッシュなニューヨークスタイルのデザインをそのまま活かした、居心地の良いレンタルスペースをご提供しています。店内の落ち着いたインテリアと、自然光が差し込む広々とした空間は、どんなシーンにも対応できる柔軟性があります。
+At café TT5, we offer a comfortable rental space that retains the stylish New York-style design of the café. The calm interior and spacious area filled with natural light provide flexibility for any occasion.
 
-「特別な時間を演出したい」「自分だけのアイデアを形にしたい」というお客様の声にお応えし、幅広い用途でお使いいただけるスペースとして設計しました。
+Designed for those who want to "create a special experience" or "bring their ideas to life," this space is perfect for a wide range of uses.
 
-スペースの特徴
+Features of the Space
 
-スタイリッシュな空間
-インダストリアルデザインのレンガ壁、木製テーブル、アイアンフレームの窓が特徴的な空間です。温かみのある照明や観葉植物が、都会的な洗練と落ち着きの両方を演出します。
+Stylish Atmosphere
+The space features an industrial design with brick walls, wooden tables, and iron-framed windows. Warm lighting and greenery add a blend of urban sophistication and tranquility.
 
-最大15名収容可能
-少人数のグループから、少し規模の大きなワークショップやイベントまで対応可能。座席やテーブルのレイアウトも柔軟に調整できます。
+Accommodates up to 15 People
+From small groups to slightly larger workshops or events, the space can adapt to your needs. Seating and table layouts can be adjusted flexibly.
 
-設備が充実
+Well-Equipped
 
-プロジェクターとスクリーン
+Projector and Screen
+High-Speed Wi-Fi
+Whiteboard
+Audio Equipment (Speakers and Microphones)
+We provide an environment that ensures easy preparation and a comfortable experience.
 
-高速Wi-Fi
+Exclusive Café Menu Service
+Upon request, coffee and light meals can be served during your event. Catering options are also available for consultation.
 
-ホワイトボード
+Pricing Plans
 
-音響設備（スピーカーやマイク）
-準備が手軽で、快適に過ごせる環境をご用意しています。
+Basic Rate
 
-専用のカフェメニュー提供
-ご希望に応じて、コーヒーや軽食をイベント中にご提供可能です。ケータリングメニューもご相談ください。
+¥3,000/hour~
+Discount plans are available for long-term or regular use.
+Optional Services
 
-料金プラン
-
-基本料金
-¥3,000/時間～
-長時間利用や定期利用の場合は、割引プランもご用意しています。
-
-オプションサービス
-
-プロジェクター・音響設備の利用料: ¥500/時間
-
-専用カフェメニュー（軽食・ドリンクセット）: ¥1,000/名～
-詳細はお問い合わせください。
-
+Projector and Audio Equipment: ¥500/hour
+Exclusive Café Menu (Light Meal &amp; Drink Set): ¥1,000/person~
+For more details, please contact us.
 RECRUIT
 
-募集職種
+Open Positions
 
-バリスタ
+Barista
+Hall Staff
+Kitchen Staff
+Working Hours
 
-ホールスタッフ
+Shift-based (Minimum 2 days per week, 4 hours per day; flexible scheduling)
+Operating Hours: 10:00–18:00
+Salary
 
-キッチンスタッフ
+¥1,100/hour~ (Negotiable based on experience and skills)
+Qualifications
 
-勤務時間
+No experience required
+Must enjoy coffee and customer service
+How to Apply / Contact
 
-シフト制（週2日～、1日4時間～応相談）
-
-営業時間：10:00～18:00
-
-給与
-
-時給 ¥1,100～（経験・能力に応じて要相談）
-
-応募資格
-
-未経験者歓迎
-
-コーヒーや接客が好きな方
-
-応募方法・お問い合わせ
-
-店頭にてスタッフまで
-
-お問い合わせよりご連絡ください</code></pre>
+Apply in person at the café
+Reach out via our contact page</code></pre>
 <!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:31:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:31:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:43:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:43:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:44:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:44:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2271,79 +2245,46 @@ RECRUIT
 		<content:encoded><![CDATA[<!-- wp:code -->
 <pre class="wp-block-code"><code>Drink
 
-ハンドドリップコーヒー
-¥550
-カフェラテ
-¥600
-カフェモカ
-¥650
-季節のフレーバーラテ
-¥680
-アイスコーヒー
-¥500
-抹茶ラテ
-¥650
-ホットチョコレート
-¥600
-自家製フルーツティー
-（ホット／アイス）
-¥700
-
+Hand Drip Coffee: ¥550
+Café Latte: ¥600
+Café Mocha: ¥650
+Seasonal Flavored Latte: ¥680
+Iced Coffee: ¥500
+Matcha Latte: ¥650
+Hot Chocolate: ¥600
+Homemade Fruit Tea (Hot/Iced): ¥700
 and more.
 
 Sweet
 
-自家製チーズケーキ
-¥500
-抹茶ティラミス
-¥550
-季節のフルーツタルト
-¥600
-ガトーショコラ
-¥550
-キャラメルナッツブラウニー
- ¥500
-レモンパウンドケーキ
-¥450
-アップルパイ
-（バニラアイス添え）
-¥650
-ベイクドドーナツ
-（プレーン／チョコ）
-¥400
-
+Homemade Cheesecake: ¥500
+Matcha Tiramisu: ¥550
+Seasonal Fruit Tart: ¥600
+Gateau Chocolat: ¥550
+Caramel Nut Brownie: ¥500
+Lemon Pound Cake: ¥450
+Apple Pie (with Vanilla Ice Cream): ¥650
+Baked Donuts (Plain/Chocolate): ¥400
 and more.
 
 Lunch
 
-クロワッサンサンド
-（ハム＆チーズ）
-¥750
-アボカドトースト
-¥800
-ベーグルサンド
-（スモークサーモン＆クリームチーズ）
-¥850
-自家製スープセット（パン付き）
-¥900
-キッシュプレート
-（サラダ＆ドリンク付き）
-¥1,200
-日替わりパスタセット
-¥1,300
-クラシックシーザーサラダ
-¥1,000
-ベジタリアンラップ（スープ＆ドリンク付き）
-¥1,100
-
+Croissant Sandwich (Ham &amp; Cheese): ¥750
+Avocado Toast: ¥800
+Bagel Sandwich (Smoked Salmon &amp; Cream Cheese): ¥850
+Homemade Soup Set (with Bread): ¥900
+Quiche Plate (with Salad &amp; Drink): ¥1,200
+Daily Pasta Set: ¥1,300
+Classic Caesar Salad: ¥1,000
+Vegetarian Wrap (with Soup &amp; Drink): ¥1,100
 and more.</code></pre>
 <!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:31:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:31:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:44:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:44:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:48:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:48:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu]]></wp:post_name>
@@ -2368,36 +2309,40 @@ and more.</code></pre>
 		<content:encoded><![CDATA[<!-- wp:code -->
 <pre class="wp-block-code"><code>INFORMATION
 
-店名
-cafe TT5
-住所
-東京都新宿区西新宿2-8-1
-電話番号
+Name
+café TT5
+
+Address
+2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo
+
+Phone Number
 03-1234-5678
-営業時間
-10:00～22:00
-定休日
-火曜日
+
+Business Hours
+10:00 AM – 10:00 PM
+
+Closed
+Tuesdays
 
 MAP
 
-&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.536731176544!2d139.68943047762565!3d35.68840747258501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d114df4bf9b%3A0x2aa0b483f2c711ea!2z44CSMTYzLTgwMDEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5paw5a6_77yS5LiB55uu77yY4oiS77yR!5e0!3m2!1sja!2sjp!4v1733136040392!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"&gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.536731176544!2d139.68943047762565!3d35.68840747258501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d114df4bf9b%3A0x2aa0b483f2c711ea!2z44CSMTYzLTgwMDEg5p2x5Lqs6YO95paw5a6_5Yy66KW_5paw5a6_77yS5LiB55uu77yY4oiS77yR!5e0!3m2!1sja!2sjp!4v1733136040392!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
+Access
 
-「JR新宿駅」（西口から徒歩約10分）
-
-都営地下鉄大江戸線「都庁前駅」
-
-新宿駅西口（地下バスのりば）から都営バス（都庁循環）
-「都庁第一本庁舎」、「都庁第二本庁舎」、「都議会議事堂」下車
-
-JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行きの新宿WEバス乗車、「新宿ワシントンホテル前」下車</code></pre>
+JR Shinjuku Station (About a 10-minute walk from the west exit)
+Toei Oedo Line, Tochomae Station
+From Shinjuku Station West Exit (Underground Bus Terminal), take the Toei Bus (Tocho Loop), and get off at:
+“Tokyo Metropolitan Government Building No. 1”
+“Tokyo Metropolitan Government Building No. 2”
+“Tokyo Metropolitan Assembly Building”
+From the JR Shinjuku Station West Gate Bus Stop, take the Shinjuku WE Bus heading toward "Nishi-Sando" and get off at "Shinjuku Washington Hotel Mae."</code></pre>
 <!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:32:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:32:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:43:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:43:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:45:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:45:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[access]]></wp:post_name>
@@ -2420,31 +2365,28 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<guid isPermaLink="false">https://playground.wordpress.net/?page_id=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:code -->
-<pre class="wp-block-code"><code>以下の内容についてのお問い合わせやお申し込みをこちらのフォームで受け付けております。
+<pre class="wp-block-code"><code>We accept inquiries and applications regarding the following topics through this form.
 
-ご不明点やご希望がございましたら、お気軽にご連絡ください。
+If you have any questions or specific requests, please feel free to contact us.
 
-求人の応募
+Job Applications
+Rental Space Applications
+General Inquiries
+For rental space applications, please copy and paste the following template, fill in the necessary information, and submit it to us.
 
-レンタルスペースのお申し込み
+Preferred Date and Time:
+Purpose of Use:
+Number of People:
+Additional Options (e.g., projector use, catering, etc.):
 
-通常のお問い合わせ
-
-レンタルスペースのお申し込みは以下のテンプレートをコピー＆ペーストして、必要情報を添えてお送りください。
-
-希望日時：
-利用目的：
-ご利用人数：
-追加オプションのご希望：（例: プロジェクター利用、ケータリングなど）
-
-【ここにフォームを設置します】</code></pre>
+&#91;The form will be placed here]</code></pre>
 <!-- /wp:code -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:32:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:32:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:44:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:44:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:46:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:46:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2460,58 +2402,32 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[初めてでも簡単！ラテアート体験ワークショップ]]></title>
-		<link>https://playground.wordpress.net/%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/</link>
+		<title><![CDATA[Easy and Fun for Beginners! Latte Art Workshop]]></title>
+		<link>https://playground.wordpress.net/easy-and-fun-for-beginners-latte-art-workshop/</link>
 		<pubDate>Fri, 01 Nov 2024 11:30:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=96</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年12月xx日（日）14:00～16:00</li>
+<li><strong>Date and Time</strong>: [Year] December <a href="Sun">Day</a> 14:00–16:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥3,000（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥3,000 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 10名（先着順）</li>
+<li><strong>Capacity</strong>: 10 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: ラテアート初心者の方、カフェ好きな方、大人向け</li>
+<li><strong>Eligibility</strong>: Beginners in latte art, coffee enthusiasts, adults</li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>本格的なバリスタの技を学びながら、自分だけのラテアートを作ってみませんか？<br>初めての方でも楽しめるワークショップ形式で、以下のプログラムをご用意しています。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>ラテアートの基本を知ろう（15分）</strong><br>フォームミルクの作り方、基本的な道具の使い方を解説します。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>プロのデモンストレーション（20分）</strong><br>バリスタが実際にハートやリーフを描く技術を披露します。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>自分で挑戦！ラテアート体験（60分）</strong><br>実際にカフェラテを作りながらラテアートに挑戦。丁寧にアドバイスします。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>交流＆シェアタイム（15分）</strong><br>完成したアートを写真に撮って記念に残したり、参加者同士で交流を楽しみましょう。</li>
-<!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -2519,21 +2435,73 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">主催者 / 講師情報</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>バリスタ TT太郎</strong><br>地元で人気の cafe TT5 のオーナー兼バリスタ。<br>10年以上のキャリアを持ち、初めての方でもわかりやすい指導が得意です。プロの視点でのアドバイスを通じて、ラテアートの楽しさをお届けします。</p>
+<p>Would you like to create your own latte art while learning professional barista techniques?<br>This workshop is designed for beginners and offers the following program:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Learn the Basics of Latte Art (15 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Explanation of how to make foamed milk and how to use basic tools.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Professional Demonstration (20 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Watch a barista demonstrate techniques for creating hearts and leaves.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Try It Yourself! Latte Art Experience (60 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Create your own latte art while making a café latte, with detailed guidance and advice.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Social &amp; Sharing Time (15 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Capture your completed art in photos as a keepsake and enjoy connecting with other participants.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Host / Instructor Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Barista Taro TT</strong><br>Owner and barista of the popular local café TT5.<br>With over 10 years of experience, Taro specializes in clear and beginner-friendly teaching. Through professional insights, he brings the joy of latte art to all participants.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2024-11-01 20:30:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-11-01 11:30:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-11-01 20:30:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-11-01 11:30:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:29:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:29:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97]]></wp:post_name>
+		<wp:post_name><![CDATA[easy-and-fun-for-beginners-latte-art-workshop]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2553,105 +2521,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a7%e3%82%82%e7%b0%a1%e5%8d%98%ef%bc%81%e3%83%a9%e3%83%86%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%93%e9%a8%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[コーヒーの世界を深堀り！プロバリスタ直伝のテクニック]]></title>
-		<link>https://playground.wordpress.net/%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e4%b8%96%e7%95%8c%e3%82%92%e6%b7%b1%e5%a0%80%e3%82%8a%ef%bc%81%e3%83%97%e3%83%ad%e3%83%90%e3%83%aa%e3%82%b9%e3%82%bf%e7%9b%b4%e4%bc%9d%e3%81%ae%e3%83%86/</link>
+		<title><![CDATA[Delve Deep into the World of Coffee! Pro Barista's Exclusive Techniques]]></title>
+		<link>https://playground.wordpress.net/delve-deep-into-the-world-of-coffee-pro-baristas-exclusive-techniques/</link>
 		<pubDate>Sat, 01 Jun 2024 11:32:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=98</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（日）13:00～15:00</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 13:00–15:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥4,000（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥4,000 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 12名（先着順）</li>
+<li><strong>Capacity</strong>: 12 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: コーヒー好きな方、さらに知識を深めたい方、大人向け</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>コーヒーの奥深い魅力を学びながら、自分の一杯をさらに美味しく仕上げる方法を探求してみませんか？<br>プロのバリスタがコーヒーの基礎から応用まで、テクニックを惜しみなくお伝えします。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>コーヒーの基礎知識（20分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>コーヒー豆の種類や焙煎度の違い、抽出の基本について解説します。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>実際のコーヒー豆を見ながら、風味や香りの違いを体験。</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>抽出のデモンストレーション（30分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>ドリップコーヒー、フレンチプレス、エスプレッソなど、抽出方法の違いを実演。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>器具ごとのコツやポイントを学びます。</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>自分で試してみよう！ハンズオンセッション（50分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>お好きな抽出方法を選んで、自分でコーヒーを淹れてみましょう。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>バリスタが一人ひとりにアドバイスします。</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>味わいとディスカッションタイム（20分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>自分で淹れたコーヒーを試飲しながら、他の参加者と感想を共有。</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>コーヒーの楽しみ方が広がるひとときです。</li>
+<li><strong>Eligibility</strong>: Coffee lovers, those looking to deepen their knowledge, adults</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2660,39 +2560,121 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">主催者 / 講師情報</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>バリスタ TT太郎</strong><br>コーヒー業界でのキャリア15年以上を持つバリスタ。数々のコンテストでの受賞歴があり、技術と知識に定評があります。コーヒーの魅力を伝えることを使命に、多くのワークショップを開催しています。</p>
+<p>Explore the profound appeal of coffee and discover ways to elevate your cup to new heights.<br>A professional barista will generously share techniques ranging from coffee basics to advanced methods.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coffee Basics (20 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Learn about coffee bean varieties, roasting levels, and extraction fundamentals.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Experience differences in flavor and aroma while examining real coffee beans.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Extraction Demonstration (30 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Watch demonstrations of drip coffee, French press, and espresso brewing methods.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Learn tips and tricks specific to each brewing device.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hands-On Session: Try It Yourself! (50 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Choose your preferred brewing method and brew your own coffee.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The barista will provide personalized advice to each participant.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tasting and Discussion Time (20 minutes)</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Sample your own coffee creation and share impressions with other participants.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Enjoy expanding your appreciation of coffee.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Host / Instructor Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Barista Taro TT</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>A barista with over 15 years of experience in the coffee industry.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A multiple award-winner in competitions, known for his expertise and technical skills.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Dedicated to spreading the joy of coffee through numerous workshops.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ご参加いただいた方には、当日使用したコーヒー豆50gをプレゼント！</li>
+<li>Each participant will receive 50g of the coffee beans used during the event as a gift!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>お気に入りの抽出方法を見つけられる体験をお楽しみください。</li>
+<li>Enjoy the experience of finding your favorite brewing method.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-01 20:32:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-01 11:32:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-01 20:32:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-01 11:32:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:34:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:34:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e4%b8%96%e7%95%8c%e3%82%92%e6%b7%b1%e5%a0%80%e3%82%8a%ef%bc%81%e3%83%97%e3%83%ad%e3%83%90%e3%83%aa%e3%82%b9%e3%82%bf%e7%9b%b4%e4%bc%9d%e3%81%ae%e3%83%86]]></wp:post_name>
+		<wp:post_name><![CDATA[delve-deep-into-the-world-of-coffee-pro-baristas-exclusive-techniques]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2712,33 +2694,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e4%b8%96%e7%95%8c%e3%82%92%e6%b7%b1%e5%a0%80%e3%82%8a%ef%bc%81%e3%83%97%e3%83%ad%e3%83%90%e3%83%aa%e3%82%b9%e3%82%bf%e7%9b%b4%e4%bc%9d%e3%81%ae%e3%83%86]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[音楽とコーヒーの夜 ～アコースティックライブ in Café～]]></title>
-		<link>https://playground.wordpress.net/%e9%9f%b3%e6%a5%bd%e3%81%a8%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e5%a4%9c-%ef%bd%9e%e3%82%a2%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%83%a9%e3%82%a4%e3%83%96-in-cafe/</link>
+		<title><![CDATA[Music and Coffee Night ~ Acoustic Live in Café ~]]></title>
+		<link>https://playground.wordpress.net/music-and-coffee-night-acoustic-live-in-cafe/</link>
 		<pubDate>Sun, 01 Sep 2024 11:34:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=100</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（金）18:30～20:30</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 18:30–20:30</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥2,500（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥2,500 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 20名（先着順）</li>
+<li><strong>Capacity</strong>: 20 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 音楽好きな方、リラックスした夜を楽しみたい方</li>
+<li><strong>Eligibility</strong>: Music enthusiasts, those looking to enjoy a relaxing evening</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2747,46 +2733,40 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>カフェで楽しむアコースティックライブの夜。<br>心地よい音楽と香り高いコーヒーが融合する、特別な時間をお届けします。<br>ライブとともに、選りすぐりのドリンクやスイーツもお楽しみください。</p>
+<p>An evening of acoustic live music in a cozy café.<br>Enjoy a special time where soothing music and aromatic coffee come together. Alongside the live performance, savor carefully selected drinks and sweets.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>オープニングパフォーマンス（18:30～）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Opening Performance (18:30–)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ローカルアーティストによるアコースティック演奏で、夜が始まります。</li>
+<li>The evening begins with an acoustic performance by local artists.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>コーヒーと音楽の融合（19:00～）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Fusion of Coffee and Music (19:00–)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ミュージシャンとバリスタがコラボレーション。音楽に合うコーヒーを紹介します。</li>
+<li>A collaboration between musicians and baristas, introducing coffee that complements the music.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>リラックスタイム（20:00～）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Relaxation Time (20:00–)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>スイーツを楽しみながら、演奏を最後まで堪能。アーティストとの交流タイムもご用意。</li>
+<li>Enjoy sweets while immersing yourself in the final performances. There will also be time to interact with the artists.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2795,20 +2775,20 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">出演アーティスト</h2>
+<h2 class="wp-block-heading">Performing Artists</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>アーティスト名: hoge &amp; hega</strong></p>
+<p><strong>Artist Name</strong>: Hoge &amp; Hega</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ギター一本で情熱的な音楽を奏でるローカルアーティスト。</li>
+<li>Local artists who create passionate music with just a guitar.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>これまでに複数のライブイベントに出演し、多くのファンを魅了。</li>
+<li>They have performed at numerous live events, captivating many fans.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2817,31 +2797,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ライブ限定のスペシャルドリンクメニューをお楽しみいただけます。</li>
+<li>Enjoy exclusive drinks from the live-event-only special menu.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>参加者全員に、アーティストのサイン入りポストカードをプレゼント！</li>
+<li>All participants will receive a signed postcard from the artists!</li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->]]></content:encoded>
+<!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-01 20:34:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-01 11:34:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-01 20:34:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-01 11:34:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:30:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:30:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e9%9f%b3%e6%a5%bd%e3%81%a8%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e5%a4%9c-%ef%bd%9e%e3%82%a2%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%83%a9%e3%82%a4%e3%83%96-in-cafe]]></wp:post_name>
+		<wp:post_name><![CDATA[music-and-coffee-night-acoustic-live-in-cafe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2861,33 +2837,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e9%9f%b3%e6%a5%bd%e3%81%a8%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e5%a4%9c-%ef%bd%9e%e3%82%a2%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%83%a9%e3%82%a4%e3%83%96-in-cafe]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Jazz &amp; Coffee Night ～カフェで過ごす特別な時間～]]></title>
-		<link>https://playground.wordpress.net/jazz-coffee-night-%ef%bd%9e%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e9%81%8e%e3%81%94%e3%81%99%e7%89%b9%e5%88%a5%e3%81%aa%e6%99%82%e9%96%93%ef%bd%9e/</link>
+		<title><![CDATA[Jazz &amp; Coffee Night ~ A Special Evening at the Café ~]]></title>
+		<link>https://playground.wordpress.net/jazz-coffee-night-a-special-evening-at-the-cafe/</link>
 		<pubDate>Thu, 01 Feb 2024 11:34:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=102</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（土）19:00～21:00</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 19:00–21:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥3,500（税込、1ドリンク＆特製デザート付き）</li>
+<li><strong>Fee</strong>: ¥3,500 (Tax included, includes 1 drink and a special dessert)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 15名（先着順）</li>
+<li><strong>Capacity</strong>: 15 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: ジャズとコーヒーを愛する方、特別な夜を過ごしたい方</li>
+<li><strong>Eligibility</strong>: Jazz and coffee lovers, those looking to enjoy a special evening</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2896,50 +2876,44 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>ジャズの生演奏と、極上のコーヒーを堪能する夜。<br>プロのジャズミュージシャンによるライブと、カフェならではのリラックスした雰囲気をお楽しみください。<br>特製デザートもご用意し、心も体も癒される時間をお届けします。</p>
+<p>An evening to indulge in live jazz music and exceptional coffee.<br>Enjoy the relaxing café ambiance paired with a professional jazz performance and a specially crafted dessert. This event promises to soothe both your mind and body.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>ウェルカムタイム（19:00～）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Welcome Time (19:00–)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>お好きなドリンクを選びながら、ジャズのイントロ演奏をお楽しみください。</li>
+<li>Select your favorite drink while enjoying introductory jazz performances.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>ジャズライブステージ（19:30～20:30）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Jazz Live Stage (19:30–20:30)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>プロのジャズバンドによる演奏。</li>
+<li>A live performance by professional jazz musicians.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>スタンダードナンバーからオリジナル楽曲まで、幅広いラインナップをお届けします。</li>
+<li>Enjoy a wide repertoire, from standard numbers to original compositions.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>スペシャルデザートタイム（20:30～）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Special Dessert Time (20:30–)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>演奏を聞きながら、カフェ特製のデザートをお召し上がりください。</li>
+<li>Savor a café-special dessert while listening to the music.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2948,20 +2922,20 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">出演アーティスト</h2>
+<h2 class="wp-block-heading">Performing Artists</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>ジャズバンド名: The Smooth Beans</strong></p>
+<p><strong>Jazz Band Name</strong>: The Smooth Beans</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>地元で人気のジャズバンド。プロの演奏家による滑らかなサウンドが特徴です。</li>
+<li>A popular local jazz band known for their smooth and polished sound, performed by professional musicians.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>国内外のジャズフェスティバルに多数出演経験あり。</li>
+<li>With extensive experience at domestic and international jazz festivals, their music captivates audiences.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -2970,31 +2944,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ジャズにちなんだオリジナルコーヒーブレンドを1杯プレゼント。</li>
+<li>Enjoy a cup of our original coffee blend inspired by jazz.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>ご希望の方には、演奏後にアーティストとの記念撮影タイムも！</li>
+<li>For those interested, a photo session with the artists will be held after the performance!</li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->]]></content:encoded>
+<!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2024-02-01 20:34:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-01 11:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-01 20:34:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-01 11:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:40:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:40:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[jazz-coffee-night-%ef%bd%9e%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e9%81%8e%e3%81%94%e3%81%99%e7%89%b9%e5%88%a5%e3%81%aa%e6%99%82%e9%96%93%ef%bd%9e]]></wp:post_name>
+		<wp:post_name><![CDATA[jazz-coffee-night-a-special-evening-at-the-cafe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3014,33 +2984,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[jazz-coffee-night-%ef%bd%9e%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e9%81%8e%e3%81%94%e3%81%99%e7%89%b9%e5%88%a5%e3%81%aa%e6%99%82%e9%96%93%ef%bd%9e]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[カフェで楽しむアート教室 ～水彩画で描くコーヒーカップ～]]></title>
-		<link>https://playground.wordpress.net/%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%a5%bd%e3%81%97%e3%82%80%e3%82%a2%e3%83%bc%e3%83%88%e6%95%99%e5%ae%a4-%ef%bd%9e%e6%b0%b4%e5%bd%a9%e7%94%bb%e3%81%a7%e6%8f%8f%e3%81%8f%e3%82%b3%e3%83%bc%e3%83%92/</link>
+		<title><![CDATA[Art Workshop at the Café ~ Painting Coffee Cups in Watercolors ~]]></title>
+		<link>https://playground.wordpress.net/art-workshop-at-the-cafe-painting-coffee-cups-in-watercolors/</link>
 		<pubDate>Mon, 01 Jul 2024 11:35:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=104</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 20xx年xx月xx日（日）14:00～16:00</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 14:00–16:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥2,500（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥2,500 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 8名（先着順）</li>
+<li><strong>Capacity</strong>: 8 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 初心者からアート好きまでどなたでも</li>
+<li><strong>Eligibility</strong>: Open to everyone, from beginners to art enthusiasts</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3049,38 +3023,34 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>カフェの落ち着いた空間で、水彩画の基礎を学びながらコーヒーカップを描いてみませんか？<br>専門の講師が丁寧にレクチャーするので、初心者でも気軽に楽しめます！</p>
+<p>Enjoy the serene ambiance of a café while learning the basics of watercolor painting and creating a coffee cup artwork.<br>With guidance from an experienced instructor, even beginners can participate with ease!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>水彩画の基本レッスン（30分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Basic Watercolor Lesson (30 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>色の混ぜ方や基本的なテクニックを解説します。</li>
+<li>Learn techniques such as mixing colors and essential watercolor skills.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>実践タイム（90分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Practice Time (90 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>実際にコーヒーカップをモチーフに水彩画を描いてみましょう。</li>
+<li>Use coffee cups as your motif and create your own watercolor painting.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>講師が一人ひとりにアドバイスします。</li>
+<li>The instructor will provide personalized advice to each participant.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3089,20 +3059,20 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">講師情報</h2>
+<h2 class="wp-block-heading">Instructor Information</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>講師名: 壇 登</strong></p>
+<p><strong>Instructor Name</strong>: Dan Noboru</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>アート教室の講師として10年以上の経験を持つプロフェッショナル。</li>
+<li>A professional with over 10 years of experience teaching art workshops.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>やさしく丁寧な指導が好評です。</li>
+<li>Known for his kind and thorough instruction, highly praised by participants.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3111,27 +3081,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>描いた作品をそのままお持ち帰りいただけます！</li>
+<li>Take your completed artwork home as a keepsake!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>参加者限定のオリジナルポストカードをプレゼント。</li>
+<li>Receive an exclusive original postcard, available only for participants.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-01 20:35:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-01 11:35:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-01 20:35:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-01 11:35:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:32:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:32:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%a5%bd%e3%81%97%e3%82%80%e3%82%a2%e3%83%bc%e3%83%88%e6%95%99%e5%ae%a4-%ef%bd%9e%e6%b0%b4%e5%bd%a9%e7%94%bb%e3%81%a7%e6%8f%8f%e3%81%8f%e3%82%b3%e3%83%bc%e3%83%92]]></wp:post_name>
+		<wp:post_name><![CDATA[art-workshop-at-the-cafe-painting-coffee-cups-in-watercolors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3151,33 +3121,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%a5%bd%e3%81%97%e3%82%80%e3%82%a2%e3%83%bc%e3%83%88%e6%95%99%e5%ae%a4-%ef%bd%9e%e6%b0%b4%e5%bd%a9%e7%94%bb%e3%81%a7%e6%8f%8f%e3%81%8f%e3%82%b3%e3%83%bc%e3%83%92]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[ハンドメイド体験：おしゃれなコースターを作ろう！]]></title>
-		<link>https://playground.wordpress.net/%e3%83%8f%e3%83%b3%e3%83%89%e3%83%a1%e3%82%a4%e3%83%89%e4%bd%93%e9%a8%93%ef%bc%9a%e3%81%8a%e3%81%97%e3%82%83%e3%82%8c%e3%81%aa%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%92%e4%bd%9c%e3%82%8d/</link>
+		<title><![CDATA[Handmade Experience: Create Your Own Stylish Coaster!]]></title>
+		<link>https://playground.wordpress.net/handmade-experience-create-your-own-stylish-coaster/</link>
 		<pubDate>Mon, 01 Jan 2024 11:36:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=107</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（土）13:30～15:30</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 13:30–15:30</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥3,000（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥3,000 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 10名（先着順）</li>
+<li><strong>Capacity</strong>: 10 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 初心者歓迎、ハンドメイドに興味のある方</li>
+<li><strong>Eligibility</strong>: Beginners welcome, anyone interested in handmade crafts</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3186,34 +3160,30 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>世界に一つだけのおしゃれなコースターを作るハンドメイドワークショップです。<br>カフェで使用する素材を使ったナチュラルなデザインを体験してみましょう！</p>
+<p>Join this handmade workshop to create your own stylish coasters, a one-of-a-kind craft!<br>Experience natural designs using materials commonly found in cafés.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>デザイン選びと素材紹介（20分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Design Selection and Material Introduction (20 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>コースターのデザインを選び、素材の特性を学びます。</li>
+<li>Choose your coaster design and learn about the characteristics of the materials.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>ハンドメイド実践（90分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Handmade Workshop (90 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>講師の指導のもと、コースターを1～2枚仕上げます。</li>
+<li>Complete 1–2 coasters with guidance from the instructor.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3222,20 +3192,20 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">講師情報</h2>
+<h2 class="wp-block-heading">Instructor Information</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>講師名: 版 土名度</strong></p>
+<p><strong>Instructor Name</strong>: Ban Tsuchinado</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>ハンドクラフト作家として活躍中。</li>
+<li>A prominent handmade craft artist.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>初心者向けのワークショップを多数開催。</li>
+<li>Frequently hosts workshops designed for beginners.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3244,27 +3214,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>作成したコースターはもちろんお持ち帰りいただけます！</li>
+<li>Take home the coasters you create!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>次回使用できるカフェ割引券をプレゼント。</li>
+<li>Receive a discount coupon for your next visit to the café.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2024-01-01 20:36:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-01-01 11:36:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-01 20:36:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-01 11:36:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:40:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:40:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e3%83%8f%e3%83%b3%e3%83%89%e3%83%a1%e3%82%a4%e3%83%89%e4%bd%93%e9%a8%93%ef%bc%9a%e3%81%8a%e3%81%97%e3%82%83%e3%82%8c%e3%81%aa%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%92%e4%bd%9c%e3%82%8d]]></wp:post_name>
+		<wp:post_name><![CDATA[handmade-experience-create-your-own-stylish-coaster]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3284,33 +3254,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-01]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e3%83%8f%e3%83%b3%e3%83%89%e3%83%a1%e3%82%a4%e3%83%89%e4%bd%93%e9%a8%93%ef%bc%9a%e3%81%8a%e3%81%97%e3%82%83%e3%82%8c%e3%81%aa%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%92%e4%bd%9c%e3%82%8d]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[冬限定！ホットドリンクと楽しむクリスマスリース作り]]></title>
-		<link>https://playground.wordpress.net/%e5%86%ac%e9%99%90%e5%ae%9a%ef%bc%81%e3%83%9b%e3%83%83%e3%83%88%e3%83%89%e3%83%aa%e3%83%b3%e3%82%af%e3%81%a8%e6%a5%bd%e3%81%97%e3%82%80%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%aa%e3%83%bc/</link>
+		<title><![CDATA[Winter Exclusive! Christmas Wreath Making with Hot Drinks]]></title>
+		<link>https://playground.wordpress.net/winter-exclusive-christmas-wreath-making-with-hot-drinks/</link>
 		<pubDate>Sun, 10 Dec 2023 11:36:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=109</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月x日（水）14:00～16:30</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 14:00–16:30</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥4,500（税込、1ドリンク＆スイーツ付き）</li>
+<li><strong>Fee</strong>: ¥4,500 (Tax included, includes 1 drink &amp; sweets)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 12名（先着順）</li>
+<li><strong>Capacity</strong>: 12 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 季節のクラフトを楽しみたい方</li>
+<li><strong>Eligibility</strong>: Anyone who enjoys seasonal crafts</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3319,34 +3293,30 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>クリスマス気分を盛り上げる特別ワークショップ！<br>ナチュラル素材を使ったリース作りを、ホットドリンクを楽しみながら体験できます。</p>
+<p>A special workshop to get into the Christmas spirit!<br>Create a wreath using natural materials while enjoying a warm drink.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>リース作りの基礎（30分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Basics of Wreath Making (30 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>デザインのコツや使用する素材の解説。</li>
+<li>Learn design tips and about the materials used.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>リース製作（120分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wreath Creation (120 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>素材を自由に組み合わせ、オリジナルリースを作りましょう！</li>
+<li>Combine materials freely to create your own original wreath!</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3355,16 +3325,16 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">講師情報</h2>
+<h2 class="wp-block-heading">Instructor Information</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>講師名: 花 スキオ</strong></p>
+<p><strong>Instructor Name</strong>: Hana Sukio</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>フラワーデザイナーとして15年以上のキャリアを持つプロフェッショナル。</li>
+<li>A professional flower designer with over 15 years of experience.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3373,27 +3343,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>完成したリースはそのままお持ち帰り！</li>
+<li>Take home your completed wreath!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>季節限定のスペシャルドリンクもご提供します。</li>
+<li>Enjoy a seasonal special drink during the workshop.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-10 20:36:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-10 11:36:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-10 20:36:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-10 11:36:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:42:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:42:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%86%ac%e9%99%90%e5%ae%9a%ef%bc%81%e3%83%9b%e3%83%83%e3%83%88%e3%83%89%e3%83%aa%e3%83%b3%e3%82%af%e3%81%a8%e6%a5%bd%e3%81%97%e3%82%80%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%aa%e3%83%bc]]></wp:post_name>
+		<wp:post_name><![CDATA[winter-exclusive-christmas-wreath-making-with-hot-drinks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3413,33 +3383,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-12-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e5%86%ac%e9%99%90%e5%ae%9a%ef%bc%81%e3%83%9b%e3%83%83%e3%83%88%e3%83%89%e3%83%aa%e3%83%b3%e3%82%af%e3%81%a8%e6%a5%bd%e3%81%97%e3%82%80%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%aa%e3%83%bc]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[春の味覚を堪能！スペシャルティコーヒー飲み比べ会]]></title>
-		<link>https://playground.wordpress.net/%e6%98%a5%e3%81%ae%e5%91%b3%e8%a6%9a%e3%82%92%e5%a0%aa%e8%83%bd%ef%bc%81%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%86%e3%82%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e9%a3%b2%e3%81%bf%e6%af%94/</link>
+		<title><![CDATA[Enjoy the Flavors of Spring! Specialty Coffee Tasting Event]]></title>
+		<link>https://playground.wordpress.net/enjoy-the-flavors-of-spring-specialty-coffee-tasting-event/</link>
 		<pubDate>Sun, 01 Dec 2024 11:36:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年x月xx日（水）14:00～16:00</li>
+<li><strong>Date and Time</strong>: [Year] [Month] <a href="Wed">Day</a> 14:00–16:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥3,500（税込、スイーツ付き）</li>
+<li><strong>Fee</strong>: ¥3,500 (Tax included, with sweets)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 15名（先着順）</li>
+<li><strong>Capacity</strong>: 15 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: コーヒー愛好家、初心者も歓迎</li>
+<li><strong>Eligibility</strong>: Coffee enthusiasts, beginners welcome</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3448,34 +3422,34 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>春らしいフレーバーが楽しめるスペシャルティコーヒーを飲み比べてみませんか？<br>プロバリスタがセレクトした4種類のコーヒーを体験。</p>
+<p>Would you like to experience the flavors of spring with specialty coffee?<br>Try four types of coffee selected by a professional barista.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>コーヒー豆の特徴解説（20分）</strong></li>
+<li><strong>Coffee Bean Characteristics Overview (20 minutes)</strong></li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>各コーヒー豆の産地や風味について学びます。</li>
+<li>Learn about the origins and flavors of each coffee bean.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:list {"ordered":true} -->
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>テイスティングタイム（60分）</strong></li>
+<li><strong>Tasting Time (60 minutes)</strong></li>
 <!-- /wp:list-item --></ol>
 <!-- /wp:list -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>4種類のコーヒーを飲み比べ。フレーバーホイールを使った解説付き。</li>
+<li>Compare four types of coffee with explanations using a flavor wheel.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3484,45 +3458,45 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">講師情報</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p><strong>講師名: 焙煎 煙</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>スペシャルティコーヒーのスペシャリスト。焙煎から抽出まで幅広い知識を持つ。</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">About the Instructor</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>お気に入りのコーヒー豆を100gプレゼント！</li>
+<li><strong>Instructor Name</strong>: Roaster Kemuri</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>イベント限定のペアリングスイーツも楽しめます。</li>
+<li>A specialist in specialty coffee with extensive knowledge from roasting to brewing.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Special Benefits</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Receive 100g of your favorite coffee beans as a gift!</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Enjoy exclusive pairing sweets available only at this event.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 20:36:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 11:36:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-01 20:36:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-01 11:36:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:23:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:23:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e6%98%a5%e3%81%ae%e5%91%b3%e8%a6%9a%e3%82%92%e5%a0%aa%e8%83%bd%ef%bc%81%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%86%e3%82%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e9%a3%b2%e3%81%bf%e6%af%94]]></wp:post_name>
+		<wp:post_name><![CDATA[enjoy-the-flavors-of-spring-specialty-coffee-tasting-event]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3538,33 +3512,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[130]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e6%98%a5%e3%81%ae%e5%91%b3%e8%a6%9a%e3%82%92%e5%a0%aa%e8%83%bd%ef%bc%81%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%86%e3%82%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e9%a3%b2%e3%81%bf%e6%af%94]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[地元の魅力再発見！地産コーヒー豆のテイスティング]]></title>
-		<link>https://playground.wordpress.net/%e5%9c%b0%e5%85%83%e3%81%ae%e9%ad%85%e5%8a%9b%e5%86%8d%e7%99%ba%e8%a6%8b%ef%bc%81%e3%80%87%e3%80%87%e7%94%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e8%b1%86%e3%81%ae%e3%83%86%e3%82%a4%e3%82%b9%e3%83%86/</link>
+		<title><![CDATA[Rediscover Local Charm! Tasting Event with Locally Sourced Coffee Beans]]></title>
+		<link>https://playground.wordpress.net/rediscover-local-charm-tasting-event-with-locally-sourced-coffee-beans/</link>
 		<pubDate>Mon, 01 Apr 2024 11:37:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=113</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（日）15:00～17:00</li>
+<li><strong>Date and Time</strong>: 20**. **. ** 15:00–17:00</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥2,000（税込、1ドリンク付き）</li>
+<li><strong>Fee</strong>: ¥2,000 (Tax included, includes 1 drink)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 12名（先着順）</li>
+<li><strong>Capacity</strong>: 12 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 地元やコーヒーに興味のある方</li>
+<li><strong>Eligibility</strong>: Anyone interested in local products or coffee</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3573,34 +3551,30 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>地元で生産されたコーヒー豆を使った飲み比べ会。<br>新しい発見や地元の魅力を再確認できる内容です！</p>
+<p>A tasting event featuring coffee brewed from locally produced beans.<br>Discover new flavors and reconnect with the charm of your hometown!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>コーヒー豆の紹介（20分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coffee Bean Introduction (20 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>生産者のストーリーや栽培環境について解説。</li>
+<li>Learn about the producers' stories and the growing conditions.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>飲み比べタイム（60分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tasting Time (60 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>地元産コーヒー豆を使った3種類のコーヒーを体験。風味の違いを楽しめます。</li>
+<li>Experience three types of coffee made from locally sourced beans and enjoy their unique flavors.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3609,27 +3583,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>テイスティングしたコーヒー豆をお得に購入できる特典付き！</li>
+<li>Exclusive discounts on the coffee beans featured in the tasting!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>地元産スイーツとのペアリングも楽しめます。</li>
+<li>Enjoy pairing with locally made sweets.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-01 20:37:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-01 11:37:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-01 20:37:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-01 11:37:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:37:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:37:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%9c%b0%e5%85%83%e3%81%ae%e9%ad%85%e5%8a%9b%e5%86%8d%e7%99%ba%e8%a6%8b%ef%bc%81%e3%80%87%e3%80%87%e7%94%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e8%b1%86%e3%81%ae%e3%83%86%e3%82%a4%e3%82%b9%e3%83%86]]></wp:post_name>
+		<wp:post_name><![CDATA[rediscover-local-charm-tasting-event-with-locally-sourced-coffee-beans]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3649,33 +3623,37 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e5%9c%b0%e5%85%83%e3%81%ae%e9%ad%85%e5%8a%9b%e5%86%8d%e7%99%ba%e8%a6%8b%ef%bc%81%e3%80%87%e3%80%87%e7%94%a3%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e8%b1%86%e3%81%ae%e3%83%86%e3%82%a4%e3%82%b9%e3%83%86]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[カフェで朝活！読書会＆モーニングコーヒー]]></title>
-		<link>https://playground.wordpress.net/%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%9c%9d%e6%b4%bb%ef%bc%81%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%86%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc/</link>
+		<title><![CDATA[Morning at the Café! Book Club &amp; Morning Coffee]]></title>
+		<link>https://playground.wordpress.net/morning-at-the-cafe-book-club-morning-coffee/</link>
 		<pubDate>Fri, 01 Mar 2024 11:37:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=115</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">イベント概要</h2>
+<h2 class="wp-block-heading">Event Overview</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>日時</strong>: 202x年xx月xx日（土）8:00～9:30</li>
+<li><strong>Date and Time</strong>: 20**. **. **  8:00–9:30</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>参加費</strong>: ¥1,500（税込、モーニングセット付き）</li>
+<li><strong>Fee</strong>: ¥1,500 (Tax included, includes a morning set)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>定員</strong>: 10名（先着順）</li>
+<li><strong>Capacity</strong>: 10 participants (First-come, first-served)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>対象</strong>: 読書好きな方、朝の時間を有効に使いたい方</li>
+<li><strong>Eligibility</strong>: Book lovers, those looking to make the most of their morning</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3684,46 +3662,40 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">イベント内容詳細</h2>
+<h2 class="wp-block-heading">Event Details</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>静かな朝の時間に、お気に入りの本と美味しいコーヒーで心をリフレッシュしませんか？<br>読書好きが集まるカジュアルな朝活イベントです。</p>
+<p>Refresh your mind with your favorite book and a delicious coffee in the quiet morning hours.<br>This casual morning activity is perfect for book enthusiasts.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>フリートーク＆自己紹介（15分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Free Talk &amp; Introductions (15 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>好きな本やおすすめの1冊を簡単にシェア。</li>
+<li>Share your favorite book or a recommended read in a casual setting.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>読書タイム（60分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Reading Time (60 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>カフェの落ち着いた空間で各自読書を楽しみます。</li>
+<li>Enjoy some personal reading time in the cozy atmosphere of the café.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><strong>感想シェア＆クロージング（15分）</strong></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sharing Impressions &amp; Closing (15 minutes)</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>読書の感想や気づきを他の参加者と共有。</li>
+<li>Share your thoughts and insights with other participants.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -3732,27 +3704,27 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2 class="wp-block-heading">特典</h2>
+<h2 class="wp-block-heading">Special Benefits</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>次回参加時に使えるドリンクチケットをプレゼント！</li>
+<li>Receive a drink ticket for use on your next visit!</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>おすすめの本を紹介するミニ冊子も配布します。</li>
+<li>Get a mini booklet featuring book recommendations from the event.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-01 20:37:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-01 11:37:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-01 20:37:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-01 11:37:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:38:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:38:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%9c%9d%e6%b4%bb%ef%bc%81%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%86%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc]]></wp:post_name>
+		<wp:post_name><![CDATA[morning-at-the-cafe-book-club-morning-coffee]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3772,46 +3744,50 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[132]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e3%82%ab%e3%83%95%e3%82%a7%e3%81%a7%e6%9c%9d%e6%b4%bb%ef%bc%81%e8%aa%ad%e6%9b%b8%e4%bc%9a%ef%bc%86%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[夏季休業のお知らせ]]></title>
-		<link>https://playground.wordpress.net/%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</link>
+		<title><![CDATA[Notice of Summer Holiday Closure]]></title>
+		<link>https://playground.wordpress.net/notice-of-summer-holiday-closure/</link>
 		<pubDate>Mon, 15 Jul 2024 14:15:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=118</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>いつも cafe TT5 をご利用いただき、ありがとうございます。</p>
+<p>Thank you for your continued support of café TT5.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>誠に勝手ながら、以下の期間を夏季休業とさせていただきます。</p>
+<p>We will be closed for summer holidays during the following period:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>休業期間</strong>: 2024年8月12日（月）～8月15日（木）</p>
+<p><strong>Holiday Period</strong>: Monday, August 12, 2024 – Thursday, August 15, 2024</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8月16日（金）より通常営業を再開いたします。</p>
+<p>We will resume normal operations starting Friday, August 16, 2024.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>暑い日が続いておりますが、皆様が素敵な夏をお過ごしいただけますよう心よりお祈り申し上げます。<br>休業期間中のご予約やお問い合わせにつきましては、営業再開後に順次対応させていただきます。</p>
+<p>We hope you have a wonderful summer despite the hot weather. During the closure, reservations and inquiries will be addressed sequentially after we reopen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>何卒ご理解のほどお願い申し上げます。</p>
+<p>We sincerely appreciate your understanding.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-15 23:15:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-15 14:15:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-15 23:15:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-15 14:15:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:41:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:41:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b]]></wp:post_name>
+		<wp:post_name><![CDATA[notice-of-summer-holiday-closure]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3839,60 +3815,64 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[142]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e5%a4%8f%e5%ad%a3%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[ゴールデンウィーク営業日のお知らせ]]></title>
-		<link>https://playground.wordpress.net/%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e5%96%b6%e6%a5%ad%e6%97%a5%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/</link>
+		<title><![CDATA[Notice of Golden Week Operating Days]]></title>
+		<link>https://playground.wordpress.net/notice-of-golden-week-operating-days/</link>
 		<pubDate>Mon, 01 Apr 2024 14:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=120</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>いつも cafe TT5 をご利用いただき、ありがとうございます。</p>
+<p>Thank you for your continued support of café TT5.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>ゴールデンウィーク期間中の営業日についてお知らせいたします。</p>
+<p>Here is our operating schedule during the Golden Week holiday period:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>営業日程</strong>:</p>
-<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Operating Schedule:</h3>
+<!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>4月29日（月・祝）: 通常営業（10:00～18:00）</li>
+<li><strong>April 29 (Mon, Holiday)</strong>: Open as usual (10:00–18:00)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>4月30日（火）: 定休日</li>
+<li><strong>April 30 (Tue)</strong>: Closed</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>5月1日（水・祝）～5月6日（月・祝）: 通常営業（10:00～18:00）</li>
+<li><strong>May 1 (Wed, Holiday) – May 6 (Mon, Holiday)</strong>: Open as usual (10:00–18:00)</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>ゴールデンウィークは通常どおり営業し、美味しいコーヒーとくつろぎの空間をご用意してお待ちしております。</p>
+<p>We will be open as usual during Golden Week, offering delicious coffee and a relaxing atmosphere.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>混雑が予想されるため、ご来店の際は事前のご予約をおすすめしております。</p>
+<p>Due to expected crowds, we recommend making a reservation in advance before visiting.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>皆様のご来店を心よりお待ちしております。</p>
+<p>We look forward to welcoming you!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-01 23:16:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-01 14:16:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-01 23:16:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-01 14:16:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:36:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:36:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e5%96%b6%e6%a5%ad%e6%97%a5%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b]]></wp:post_name>
+		<wp:post_name><![CDATA[notice-of-golden-week-operating-days]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3915,6 +3895,10 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%af%e5%96%b6%e6%a5%ad%e6%97%a5%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3968,44 +3952,56 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[年末年始休業のお知らせ]]></title>
-		<link>https://playground.wordpress.net/hello-world-2/</link>
+		<title><![CDATA[Notice of Business Hours Change]]></title>
+		<link>https://playground.wordpress.net/notice-of-business-hours-change/</link>
 		<pubDate>Sun, 01 Dec 2024 05:18:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>いつも cafe TT5 をご利用いただき、ありがとうございます。</p>
+<p>Thank you for your continued support.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>誠に勝手ながら、以下の期間を年末年始休業とさせていただきます。</p>
+<p>We are pleased to inform you that, starting <strong>Tuesday, January 2, 2024</strong>, our business hours will be partially adjusted to provide a more comfortable experience for all our customers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">New Business Hours</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Opening Time: 9:00 AM</strong><br>(No changes to closing time)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Effective Date</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Starting Tuesday, January 2, 2024</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>休業期間</strong>: 2024年12月30日（月）～2025年1月3日（金）</p>
+<p>We sincerely appreciate your patronage and hope for your continued support under the new business hours.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>年内の最終営業日は<strong>12月29日（日）18:00まで</strong>、新年は<strong>1月4日（土）10:00より</strong>通常営業を再開いたします。</p>
+<p>If you have any questions, please feel free to ask our staff in-store or contact us by phone.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>休業期間中はご不便をおかけいたしますが、何卒ご了承いただきますようお願い申し上げます。</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>本年もたくさんのお客様にご来店いただき、心より感謝申し上げます。<br>来年も引き続きご愛顧賜りますよう、よろしくお願い申し上げます。</p>
+<p>Thank you for your ongoing support.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 05:18:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:18:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-01 05:18:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-01 05:18:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-28 16:28:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-28 16:28:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
+		<wp:post_name><![CDATA[notice-of-business-hours-change]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -4016,6 +4012,10 @@ JR新宿駅西改札「新宿駅西口」バス停から「西参道方面」行
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world-2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -4079,8 +4079,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:26:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:26:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:48:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:48:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-01 14:26:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-01 05:26:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
@@ -4104,8 +4104,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>6666</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-01 14:26:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-01 05:26:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-12 20:47:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-12 11:47:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-01 14:26:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-01 05:26:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -4302,8 +4302,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>6681</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-05 11:47:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-05 02:47:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-05 12:03:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-05 03:03:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-05 11:47:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-05 02:47:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -4348,8 +4348,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>6684</wp:post_id>
 		<wp:post_date><![CDATA[2024-12-05 12:08:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-12-05 03:08:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-06 16:07:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-06 07:07:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-12-05 12:08:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-12-05 03:08:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
