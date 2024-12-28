@@ -35,7 +35,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/tt5-book-blog-content.xml"
+        "url": "https://raw.githubusercontent.com/Olein-jp/tt5-book-playground/main/blog/tt5-book-blog-content-ja.xml"
       }
     },
     {
