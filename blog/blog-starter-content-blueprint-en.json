@@ -33,10 +33,6 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require_once 'wordpress/wp-load.php'; update_option('timezone_string', 'Asia/Tokyo'); ?>"
-    },
-    {
-      "step": "runPHP",
       "code": "<?php require_once 'wordpress/wp-load.php'; update_option('time_format', 'g:i a'); ?>"
     },
     {
